@@ -1,0 +1,15 @@
+{
+  "name": "dump-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dump.js",
+  "scripts": {
+    "start": "node dump.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nedb-promises": "^6.2.3"
+  }
+}
